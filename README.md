@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raffee-creator
-- 👀 I’m interested in ... Python website developer
-- 🌱 I’m currently learning ... webpage,AI,E-Commerce,SEO optimization
+- 👀 I’m interested in ...  Software developer, Django python developer, Digital Marketing 
+- 🌱 I’m currently learning ...Django, JavaScript framework, WebApp,AI,E-Commerce,SEO optimization
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...rapha7022@gmail.com
 -
